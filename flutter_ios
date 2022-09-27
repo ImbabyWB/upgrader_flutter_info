@@ -5,11 +5,11 @@
 <description>Most recent changes with links to updates.</description>
 <language>en</language>
 <item>
-<title>Version1.0.10</title>
+<title>Version1.0.8</title>
 <link>https://sparkle-project.org</link>
-<sparkle:version>1.0.9</sparkle:version>
+<sparkle:version>1.0.8</sparkle:version>
 <description>
-this is test for new update 1.0.9
+this is test for new update 1.0.8
 </description>
 <sparkle:tags>
     <sparkle:criticalUpdate></sparkle:criticalUpdate>
